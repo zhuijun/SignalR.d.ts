@@ -41,3 +41,5 @@ SignalR for .Net Core 3.1
     }).catch(function (err) {
         return console.error(err.toString());
     });
+    
+    注：CtoSMessage和StoCMessage可以替换成其他消息名。
